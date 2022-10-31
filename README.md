@@ -28,4 +28,6 @@ Flags named "flag_xx" are square. Flags named "full_flag_xx" are designed to nes
 
 ## Flags Included
 
+The proof sheet below is an example of the color and shape of the tags and flags. There are slight variations between those used for KiCad v5 and KiCad v6.
+
 ![Proof Sheet](https://github.com/rheingoldheavy/KiCad-Color-Flags/blob/main/Examples/proof_sheet.PNG)
